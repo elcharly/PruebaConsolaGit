@@ -1,0 +1,5 @@
+C:\ToDelete\GitSample\GitSample\bin\Debug\GitSample.dll
+C:\ToDelete\GitSample\GitSample\bin\Debug\GitSample.pdb
+C:\ToDelete\GitSample\GitSample\obj\Debug\ResolveAssemblyReference.cache
+C:\ToDelete\GitSample\GitSample\obj\Debug\GitSample.dll
+C:\ToDelete\GitSample\GitSample\obj\Debug\GitSample.pdb
