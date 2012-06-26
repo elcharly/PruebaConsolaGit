@@ -7,5 +7,6 @@ namespace GitSample
 {
     class Man : Person
     {
+      private Boolean hasACar;
     }
 }
