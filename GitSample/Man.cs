@@ -5,8 +5,11 @@ using System.Text;
 
 namespace GitSample
 {
-    class Man : Person
+    public class Man : Person
     {
       private Boolean hasACar;
+        public string Address { get; set; }
+        public DateTime BirthDate { get; set; }
+        public bool Unemployed { get; set; }
     }
 }
